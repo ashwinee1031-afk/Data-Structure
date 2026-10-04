@@ -18,7 +18,7 @@ def count(text):
         else:
             special_char+=1
 
-print(f"Vowels: {vowels}")
+print(f"Vowels:{vowels}")
 print(f"Consonants:{consonants}")
 print(f"Digits:{digits}")
 print(f"Special Characters:{special_char}")
