@@ -1,4 +1,5 @@
 #inserting new node into singly linkedlist
+#find out middle node and also delete it 
 
 # singly linear linked list
 class Node:
