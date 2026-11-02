@@ -138,9 +138,11 @@ class LinkedList:
             if prev:
                 temp=prev.next
 
-
+    def concatenate():
+        
 
 list = LinkedList()
+list1 = LinkedList()
 
 n1 = Node(10)
 n2 = Node(20)
@@ -164,3 +166,10 @@ list.print()
 list.deletefirst_last(1)
 list.delete_alternate_nodes()
 list.print()
+
+print("new list")
+list1.insert(Node(23))
+list1.insert(Node(32))
+list1.insert(Node(30))
+
+
