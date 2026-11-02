@@ -1,7 +1,6 @@
 
 # Linear Queue Implementation
-
-queue = []
+#1.Enqueue 2.Dequeue 3.Display 4.Reverse queue using stack 5.Merge 2 queues 6.Check if two queues are identical.
 
 while True:
     print("\n----- LINEAR QUEUE OPERATIONS -----")
